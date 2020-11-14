@@ -15,7 +15,7 @@ author: Junghyun Kim
 
 navbar-links:
   About Me: "aboutme"
-  Author's home: "https://woori48296.wixsite.com/jhkim"
+  SiteMap: "https://woori48296.wixsite.com/jhkim"
 
 # --- Logo --- #
 
@@ -30,7 +30,6 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-
 # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.
@@ -38,7 +37,7 @@ round-avatar: true
 social-network-links:
   email: "woori4829@gmail.com"
   telephone: +821051997953
-  github: kjhyun824 
+  github: kjhyun824
   instagram: _kjhyun
   steam: 76561198172681411
 
@@ -171,16 +170,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
