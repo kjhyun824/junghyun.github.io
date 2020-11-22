@@ -7,10 +7,9 @@ subtitle: Reading, Writing, Developing
 ### Education
 - M.S. @ UNIST (March 2017 - February 2019)
   - Computer Science Engineering (CSE)
-
 - B.S. @ UNIST (March 2013 - February 2017)
- - Major: Computer Science Engineering (CSE)
- - Minor: Mathematical Science (MTH)
+  - Major: Computer Science Engineering (CSE)
+  - Minor: Mathematical Science (MTH)
 
 ### Careers
 - Researcher at TmaxOS (February 2019 - Now)
