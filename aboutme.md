@@ -5,12 +5,12 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 ### Education
-M.S. @ UNIST (March 2017 - February 2019)
-- Computer Science Engineering (CSE)
+- M.S. @ UNIST (March 2017 - February 2019)
+  - Computer Science Engineering (CSE)
 
-B.S. @ UNIST (March 2013 - February 2017)
-- Major: Computer Science Engineering (CSE)
-- Minor: Mathematical Science (MTH)
+- B.S. @ UNIST (March 2013 - February 2017)
+ - Major: Computer Science Engineering (CSE)
+ - Minor: Mathematical Science (MTH)
 
 ### Careers
 - Researcher at TmaxOS (February 2019 - Now)
@@ -44,6 +44,3 @@ B.S. @ UNIST (March 2013 - February 2017)
 ### Language Preference
 - Major : C, C++, Java, Python, Shell Script
 - Minor : R, HTML, CSS, JavaScript​, PHP, Ajax, MySQL, SMLNJ, Racket
-
-### My story
-
