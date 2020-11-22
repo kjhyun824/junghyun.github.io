@@ -13,11 +13,11 @@ subtitle: Reading, Writing, Developing
 
 ### Careers
 - Researcher at TmaxOS (February 2019 - Now)
-- M.S. Student at NECSST Lab (September 2017 - February 2019)
+- M.S. Student at NECSST Lab (September 2017 - February 2019) \
 	Advisor Prof. Sam H. Noh
-- M.S. Student at BDSA Lab (March 2017 - February 2019)
+- M.S. Student at BDSA Lab (March 2017 - February 2019) \
 	Advisor Prof. Jiwon Seo
-- Internship at BDSA Lab (March 2016 - February 2017)
+- Internship at BDSA Lab (March 2016 - February 2017) \
 	Advisor Prof. Jiwon Seo
 - Teaching Assistant - System Programming (2018 Spring)
 - Teaching Assistant - Programming Language (2017 Fall)
